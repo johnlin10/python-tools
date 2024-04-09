@@ -1,4 +1,8 @@
+<div align="center">
+
 # Python Tools
+
+</div>
 
 - [`/LongTextTranslation`](/LongTextTranslation/main.py):
 
